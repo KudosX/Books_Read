@@ -28,7 +28,7 @@
 - Michael Hartl Rails Tutorial ScreenCasts/book - build Twitter application
 - Rails Crash Course by Anthone Lewis - build Tumblr application
 - Ruby Pocket Reference by Michael Fitzgerald
-- Leary Ruby on Rails by Daniel Kehoe on kindle
+- Learn Ruby on Rails by Daniel Kehoe on kindle
 
 #### Books in 2014:
 
@@ -40,7 +40,7 @@
 - Essential Scrum by Mike Cohn and Ron Jeffries
 - Java Programming Cookbook by Herb Schildt's
 - Spring In Practice by Willie Wheeler and Joshua White
-- Java A Beginner's Guide by Herbert Schildt
+- Java - A Beginner's Guide by Herbert Schildt
 - Beginning Java EE7 by Antonio Goncalves
 
 #### Books in 2013:
